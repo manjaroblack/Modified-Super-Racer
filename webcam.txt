@@ -1,0 +1,2 @@
+camera="usb"
+camera_usb_options="-n -p 8080 -r 640x480 -f 30 -d /dev/v4l/by-id/usb-Azurewave_USB_2.0_UVC_VGA_WebCam_0x0001-video-index0"
