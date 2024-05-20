@@ -1,6 +1,11 @@
 <h1>FLSun Super Racer Config Files</h1>
 
 <p>These config files are for my highly modified FLSun Super Racer.</p>
+<p>Based on code from:</p>
+<ul>
+    <li>https://github.com/danorder</li>
+    <li>https://github.com/Guilouz</li>
+</ul>
 
 <h2>Modifications</h2>
 
